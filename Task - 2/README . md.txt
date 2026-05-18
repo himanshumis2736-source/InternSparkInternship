@@ -1,0 +1,18 @@
+# API Integration Project
+
+This project fetches data from an API using Python requests module and displays the results.
+
+## Features
+- API Integration
+- JSON Parsing
+- Search/Filter Feature
+
+## Technologies Used
+- Python
+- Requests
+
+## API Used
+https://jsonplaceholder.typicode.com/posts
+
+## Run
+python api_integration_project.py
